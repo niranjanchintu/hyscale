@@ -1,6 +1,6 @@
 ![HyScale](https://www.hyscale.io/wp-content/uploads/2019/01/hyscale-logo.png)
 
-[![Actions Status](https://github.com/hyscale/hyscale/workflows/Build/badge.svg)](https://github.com/hyscale/hyscale/actions?query=workflow%3ABuild)
+[![Actions Status](https://github.com/hyscale/hyscale/workflows/Build/badge.svg)]
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=io.hyscale%3Ahyscale&metric=security_rating)](https://sonarcloud.io/dashboard?id=io.hyscale%3Ahyscale)
 [![Release](https://img.shields.io/github/v/release/hyscale/hyscale)](https://github.com/hyscale/hyscale/releases/latest)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=io.hyscale%3Ahyscale&metric=alert_status)](https://sonarcloud.io/dashboard?id=io.hyscale%3Ahyscale)
